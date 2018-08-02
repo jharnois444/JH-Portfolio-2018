@@ -134,7 +134,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .intro-section{ 
 	padding-top: 200px; position: relative; background-size: cover; 
 	z-index: 1;
-	background-image: url(../../images/slider-1-1920x1080.jpg);
+	/* background-image: url(../../images/slider-1-1920x1080.jpg); */
  }
 
 
@@ -144,7 +144,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 /* .intro-section:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0;
 	height: 150px; z-index: -1; background: #fff; } */
 
-.intro{ padding: 0 20px; margin-top: 100px; text-align: center;  }
+.intro{ padding: 0 20px; margin-top: 0px; margin-bottom: 100px; text-align: center;  }
 
 .intro .profile-img{ height: 200px; width: 200px; border-radius: 100px; margin: 0 auto; 
 	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px;  }
