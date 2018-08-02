@@ -132,7 +132,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 --------------------------------- */
 
 .intro-section{ 
-	padding-top: 200px; position: relative; background-size: cover; 
+	padding-top: 0px; position: relative; background-size: cover; top: -100px;
 	z-index: 1;
 	background-image: url(../../images/Full-Stack-Web-Developer-Orlando-Josh-Harnois.jpg);
  }
